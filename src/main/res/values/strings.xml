@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Tap Counter</string>
+    <string name="action_settings">Settings</string>
+    <string name="tap_here">TAP HERE</string>
+    <string name="reset">Reset Counter</string>
+    <string name="info">Tap on the button to increment the counter below</string>
+</resources>
